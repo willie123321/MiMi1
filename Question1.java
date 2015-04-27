@@ -1,6 +1,9 @@
-﻿public class Question1{
+public class Question1{
 	public statis void main(String[] args){
 		System.out.println("Test");
-		System.out.printf("A AM012060 林漢庭提交");
+		System.out.println("A");
+		System.out.println("B");
+		System.out.println("C");
+		System.out.println("finish");
 	}
 }
